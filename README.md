@@ -18,7 +18,7 @@ Hi, I'm Shikhar Sharma, a Web Developer and Cloud Architect 🚀 from India, cur
 
 Beside's developing stuff, I enjoy listening music 🎧 ,traveling 🏝️🗻 and binging TV shows 📺.
 
-<img align="right" width="80%" alt="GIF" src="https://github.com/shikhar-sharma1703/shikhar-sharma1703/blob/master/dino.gif" />
+<img align="right" width="60%" alt="GIF" src="https://github.com/shikhar-sharma1703/shikhar-sharma1703/blob/master/dino.gif" />
 
 **Talking about Personal Stuff:**
 
@@ -31,8 +31,6 @@ Beside's developing stuff, I enjoy listening music 🎧 ,traveling 🏝️🗻 a
 - ⚡ Fun fact: Jack of All trades , master of pun 😂.
 
 &nbsp;
-<br>
-<br>
 <br>
 **Languages and Tools:**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/></code>
