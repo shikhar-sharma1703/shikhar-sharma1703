@@ -14,7 +14,7 @@
 <br />
 <br />
 
-Hi, I'm Shikhar Sharma, a Web Developer and Cloud Architect 🚀 from India, currently a CS Junior at <a href ="http://gla.ac.in/">GLA University</a>
+Hi, I'm Shikhar Sharma, a Web Developer and Cloud Architect 🚀 from India, currently a CS Major at <a href ="http://gla.ac.in/">GLA University</a>
 
 Beside's developing stuff, I enjoy listening music 🎧 ,traveling 🏝️🗻 and binging TV shows 📺.
 
