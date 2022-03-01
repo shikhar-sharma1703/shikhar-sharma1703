@@ -14,7 +14,7 @@
 <br />
 <br />
 
-Hi, I'm Shikhar Sharma, a Web Developer and Cloud Architect 🚀 from India, currently a CS Major at <a href ="http://gla.ac.in/">GLA University</a>
+Hi, I'm Shikhar Sharma, a Web Developer and Cloud Architect 🚀 from India, currently a Software Developer at  <a href ="https://www.springworks.in/">Springworks</a>
 
 Beside's developing stuff, I enjoy listening music 🎧 ,traveling 🏝️🗻 and binging TV shows 📺.
 
@@ -27,7 +27,7 @@ Beside's developing stuff, I enjoy listening music 🎧 ,traveling 🏝️🗻 a
 - 💬 Ask me about Web Development, Competitive Programming and Technology in general.
 - 📫 How to reach me: <a href="mailto:shikhar.sharma.53@gmail.com">shikhar.sharma.53@gmail.com</a>
 - 😄 Pronouns: He / Him / Bro / Dude.
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Jack of All trades , master of pun 😂.
 
 &nbsp;
